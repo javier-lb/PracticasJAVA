@@ -19,4 +19,7 @@ public class Ejercicio16 {
         }
         teclado.close();
     }
+    /*
+    Generador de numeros aleatorios poniendo la cantidad de números a generar y dando un rango.
+    */
 }
