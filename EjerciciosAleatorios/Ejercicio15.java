@@ -35,4 +35,7 @@ public class Ejercicio15{
         }
         teclado.close();
     }
+    /*
+    Pedir un día de la semana y dar si es laborable o no
+    */
 }
